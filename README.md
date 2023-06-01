@@ -4,7 +4,7 @@ This repository contains the code and resources for a project involves developin
 
 [ Explore Our Presentation](https://www.canva.com/design/DAFke_apZOU/_LBE-pZxwtpsn9gvGY13Sw/edit?utm_content=DAFke_apZOU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-![](https://drive.google.com/file/d/1mMp34CxFYPnnTYHlGFYOiufVgceaMN2l/view?usp=sharing)
+![](https://github.com/salmakishk98/VQA_Medical/blob/main/ModelandFilesUsed/Screenshot%20from%202023-05-31%2021-08-49.png?raw=true)
 ---
 # DataSet
 
