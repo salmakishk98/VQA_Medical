@@ -7,12 +7,17 @@ This repository contains the code and resources for a project involves developin
 ![](https://github.com/salmakishk98/VQA_Medical/blob/main/ModelandFilesUsed/Screenshot%20from%202023-05-31%2021-08-49.png?raw=true)
 ---
 # DataSet
+Question Categories and Patterns : "Modality, Plane, Organ System, and Abnormality"
 
-The data is a collection of texts in different dialects of the Arabic language.<br>
-    The texts are collected from different sources, and the dialects are classified<br>
-    into 5 categories: Gulf, Levantine, North African, Iraqi, and Egyptian. The data<br>
-    is collected from the following sources:<br>
-     - `https://www.kaggle.com/mksaad/arabic-dialects-texts`
+--The Modality category includes Yes/No, WH, and closed questions, while 
+
+--the Plane and Organ System categories consist of WH questions. 
+
+--The Abnormality category includes Yes/No and WH questions
+
+-- Additionally, the passage lists the 16 plane types, 10 organ systems, and 36 mod
+<br>
+     - `https://www.kaggle.com/mksaad/arabic-dialects-texts](https://www.imageclef.org/2019/medical/vqa/`
 
 ---
 # 
@@ -20,14 +25,14 @@ The data is a collection of texts in different dialects of the Arabic language.<
 
 # Getting Started
 To get started with the project, you will need to clone the repository to your local machine:<br>
-git clone  https://github.com/Elghandour-eng/NLP_Dialects_Classifier <br>
+git clone  https://github.com/salmakishk98/VQA_Medical.git <br>
 
 Once you have cloned the repository, you can open the project in your preferred code editor and start exploring the code.
 
 
 # Project Structure
 
-![](Screenshot from 2023-05-31 21-14-02.png)
+![](https://github.com/salmakishk98/VQA_Medical/blob/main/ModelandFilesUsed/Screenshot%20from%202023-05-31%2021-14-02.png?raw=true)
 
 ---
 
@@ -35,9 +40,8 @@ Once you have cloned the repository, you can open the project in your preferred 
 
 Using `Google Cloud` for deployment allows developers to easily deploy and scale their applications with high availability and reliability.<br>
 With Google Cloud's vast array of services and tools, developers can quickly and securely deploy their applications to a global audience.<br>
-https://dialects-classifier-elghandour.de.r.appspot.com/
 
-![](https://i.ibb.co/dBWjh0V/Screenshot-42.png)
+![](https://github.com/salmakishk98/VQA_Medical/blob/main/ModelandFilesUsed/Screenshot%20from%202023-05-31%2020-30-22.png?raw=true)
 
 ---
 # License
