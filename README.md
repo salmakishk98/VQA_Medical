@@ -4,7 +4,7 @@ This repository contains the code and resources for a project involves developin
 
 [ Explore Our Presentation](https://www.canva.com/design/DAFke_apZOU/_LBE-pZxwtpsn9gvGY13Sw/edit?utm_content=DAFke_apZOU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-<img src="https://drive.google.com/file/d/1mMp34CxFYPnnTYHlGFYOiufVgceaMN2l/view) alt="Alt text" title="Optional title">
+<img src="https://drive.google.com/file/d/1mMp34CxFYPnnTYHlGFYOiufVgceaMN2l/view" alt="Alt text" title="Optional title">
 ---
 # DataSet
 
