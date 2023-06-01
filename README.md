@@ -44,8 +44,14 @@ With Google Cloud's vast array of services and tools, developers can quickly and
 ![](https://github.com/salmakishk98/VQA_Medical/blob/main/ModelandFilesUsed/Screenshot%20from%202023-05-31%2020-30-22.png?raw=true)
 
 ---
-# License
-  This project is licensed under the GNU General Public License v3.0.
+# Notes
+  - [link for our model](https://drive.google.com/file/d/18ZRSz7vgyqBwQPdgz16KtP0Mvk-oU74W/view?usp=sharing) 
+  - [link for word to vec model](https://drive.google.com/file/d/1qq8pNGTBvQbZECmvNMxkhLL_DntYDV0O/view?usp=sharing) 
+
+---
+# limitations:
+- model traind on limit answers 1552 as classification problem, not generative.
+- number of classes is big and imblance.
 
 ---
 # Authors
