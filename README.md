@@ -36,10 +36,7 @@ Once you have cloned the repository, you can open the project in your preferred 
 
 ---
 
-# Deployment
-
-Using `Google Cloud` for deployment allows developers to easily deploy and scale their applications with high availability and reliability.<br>
-With Google Cloud's vast array of services and tools, developers can quickly and securely deploy their applications to a global audience.<br>
+# App Interface
 
 ![](https://github.com/salmakishk98/VQA_Medical/blob/main/ModelandFilesUsed/Screenshot%20from%202023-05-31%2020-30-22.png?raw=true)
 
