@@ -47,8 +47,9 @@ Once you have cloned the repository, you can open the project in your preferred 
 
 ---
 # limitations:
-- model traind on limit answers 1552 as classification problem, not generative.
-- number of classes is big and imblance.
+There are a few limitations to consider when using this model.
+it was trained as a classification problem with only 1552 limited answers, rather than a generative one.
+This means that the model may not be able to provide diverse answers to complex  questions.
 
 ---
 # Authors
